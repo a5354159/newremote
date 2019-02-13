@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.header {
+    width: 1200px;
+    height: 20px;
+    background: #cdc;
+    margin: 20px auto;
+}
